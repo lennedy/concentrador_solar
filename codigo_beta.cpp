@@ -1,3 +1,4 @@
+# concentrador_solar
 #include <Servo.h>
 const float BASE = 0.4887585532746823069403714565; //Base de conversão para Graus Celsius ((5/1023) * 100)
 Servo valvulaRese; //declara a função do servo
